@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@source "../components/**/*.{ts,tsx}";
+@source "../app/**/*.{ts,tsx}";
+
+@layer base {
+  :root {
+    --font-cormorant: "Cormorant Garamond", serif;
+    --font-jost: "Jost", sans-serif;
+  }
+  html { scroll-behavior: smooth; }
+  body { font-family: var(--font-jost); }
+}
+
+@layer utilities {
+  .font-serif { font-family: var(--font-cormorant); }
+}
