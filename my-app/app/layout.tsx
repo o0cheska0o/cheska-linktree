@@ -18,9 +18,9 @@ const jost = Jost({
 });
 
 export const metadata: Metadata = {
-  title: "Cheska | cheska.online",
+  title: "Cheska Friend",
   description:
-    "Cheska — Miss Philippines USA 2026, Front-End Engineer, KAMP Advocate.",
+    "Miss Philippines USA 2026 Candidate, founder of KAMP, Front-End Engineer, and advocate for Filipino youth empowerment.",
 };
 
 export default function RootLayout({
