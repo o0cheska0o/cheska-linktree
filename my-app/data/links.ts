@@ -31,7 +31,7 @@ export const linkSections: LinkSection[] = [
     label: "Advocacy",
     links: [
       {
-        title: "KuyaAte.org Official Websitex",
+        title: "KuyaAte.org Official Website",
         subtitle: "Kuya Ate Mentorship Program",
         href: "https://www.kuyaate.org",
         icon: "plant",
